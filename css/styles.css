@@ -1,0 +1,206 @@
+*{
+	margin: 0px;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.colorCabeza{
+  background-color: #F8EDE3;
+  text-align: center;
+}
+.galoLogo{
+  height: 200px;
+  width: 400px;
+  padding-bottom: 10px;
+}
+/* comienza main */
+
+main {
+    background-color: #DFD3C3;
+    padding: 10px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+main nav ul li {
+  display: inline-block;
+  color: black;
+  }
+  main nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    padding: 10px 20px;
+  }
+main nav{
+  width: fit-content;
+  margin: 15px auto 0px;
+} 
+.seccionUno{display: flex;
+justify-content:space-around;
+padding-right: 25px;
+padding-top: 1%;
+text-align: justify;
+padding-bottom: 2%;
+}
+
+.tarjeta{
+  border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 0px;
+}
+.tarjeta__img{
+  width: 100%;
+  height: 75%;
+}
+.tarjeta__img2 {
+  width: 100%;
+  height: 75%;
+}
+.tarjeta__titulo{
+text-align: center;
+margin-top: 15px;
+}
+.tarjeta__info{
+  display: block;
+  margin-top: 5px;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.tarjeta__boton{
+  margin-top: 0px;
+display: block;
+border: 1px solid black;
+text-align: center;
+background-color: #7D6E83;
+color: black;
+}
+
+.listaTama{
+  font-size: 20px;
+padding-left: 45%;
+}
+.h3Tama{
+  font-size: 30px;
+text-align: center;
+font-weight: 900;
+padding-bottom: 1px;
+}
+.textoVehi{
+color: black;
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+/* El footer */
+footer{
+  background-color: #D0B8A8;
+    padding: 5px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    height: 200px;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+a{
+  color: black;
+}
+
+.contactoTamaño{
+  font-size: 20px;
+}
+.warapTama{
+  font-size: 20px;
+}
+.mailTama{
+  font-size: 20px;
+}
+.instaTama{
+  font-size: 20px;
+}
+.formularioTama{
+  font-size: 20px;
+  text-align: start;
+}
+
+.footerOrden{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  text-align: center;
+  }
+
+  /* Imagenes para secciones en los main */
+  .conteinerUno{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+.img-1{
+  height: 300px;
+  width: 400px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+}
+  .img-2{
+    height: 300px;
+    width: 400px;
+    margin-right: 15px;
+}
+.img-3{
+  height: 300px;
+  width: 400px;
+  margin-right: 15px;
+
+}
+  .img-4{
+    height: 300px;
+    width: 400px;
+}
+.img-5{
+  height: 300px;
+  width: 400px;
+  margin-right: 15px;
+  margin-left: 100px;
+  margin-bottom: 15px;
+}
+  .img-6{
+    height: 300px;
+    width: 400px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.img-7{
+  height: 300px;
+  width: 400px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+  .img-8{
+    height: 300px;
+    width: 400px;
+    margin-bottom: 15px;
+}
